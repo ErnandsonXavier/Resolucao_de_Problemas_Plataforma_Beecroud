@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|c:\\users\\administrator\\source\\repos\\conceitos de c# em pratica\\conceitos de c# em pratica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|solutionrelative:conceitos de c# em pratica\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|c:\\users\\administrator\\source\\repos\\conceitos de c# em pratica\\conceitos de c# em pratica\\1010 -c\u00E1lculo-simples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|solutionrelative:conceitos de c# em pratica\\1010 -c\u00E1lculo-simples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|c:\\users\\administrator\\source\\repos\\conceitos de c# em pratica\\conceitos de c# em pratica\\1009 -sal\u00E1rio-com-b\u00F4nus .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5C99D2-235D-4EE7-9931-FA1BC9CD642A}|Conceitos de C# em pratica\\Conceitos de C# em pratica.csproj|solutionrelative:conceitos de c# em pratica\\1009 -sal\u00E1rio-com-b\u00F4nus .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\Class1.cs",
+              "RelativeDocumentMoniker": "Conceitos de C# em pratica\\Class1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\Class1.cs",
+              "RelativeToolTip": "Conceitos de C# em pratica\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:26:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1009 -Sal\u00E1rio-com-B\u00F4nus .cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\1009 -Sal\u00E1rio-com-B\u00F4nus .cs",
+              "RelativeDocumentMoniker": "Conceitos de C# em pratica\\1009 -Sal\u00E1rio-com-B\u00F4nus .cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\1009 -Sal\u00E1rio-com-B\u00F4nus .cs",
+              "RelativeToolTip": "Conceitos de C# em pratica\\1009 -Sal\u00E1rio-com-B\u00F4nus .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T23:20:42.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1010 -C\u00E1lculo-Simples.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\1010 -C\u00E1lculo-Simples.cs",
+              "RelativeDocumentMoniker": "Conceitos de C# em pratica\\1010 -C\u00E1lculo-Simples.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Conceitos de C# em pratica\\Conceitos de C# em pratica\\1010 -C\u00E1lculo-Simples.cs",
+              "RelativeToolTip": "Conceitos de C# em pratica\\1010 -C\u00E1lculo-Simples.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T16:23:07.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

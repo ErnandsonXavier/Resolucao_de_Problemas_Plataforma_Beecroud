@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\bin\Debug\1011-Esfera.exe.config
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\bin\Debug\1011-Esfera.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\bin\Debug\1011-Esfera.pdb
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\obj\Debug\1011-Esfera.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\obj\Debug\1011-Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\obj\Debug\1011-Esfera.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1011-Esfera\1011-Esfera\1011-Esfera\obj\Debug\1011-Esfera.pdb

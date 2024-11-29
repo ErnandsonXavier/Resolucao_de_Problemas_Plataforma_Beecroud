@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\obj\Debug\1010-calculo-simples.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\obj\Debug\1010-calculo-simples.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\bin\Debug\1010-calculo-simples.exe.config
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\bin\Debug\1010-calculo-simples.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\bin\Debug\1010-calculo-simples.pdb
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\obj\Debug\1010-calculo-simples.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1010-Calculo-Simples\1010-calculo-simples\1010-calculo-simples\obj\Debug\1010-calculo-simples.pdb

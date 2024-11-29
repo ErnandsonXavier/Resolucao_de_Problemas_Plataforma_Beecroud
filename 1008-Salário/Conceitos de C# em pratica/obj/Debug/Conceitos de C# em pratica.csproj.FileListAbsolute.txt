@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\bin\Debug\Conceitos de C# em pratica.exe.config
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\bin\Debug\Conceitos de C# em pratica.exe
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\bin\Debug\Conceitos de C# em pratica.pdb
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\obj\Debug\Conceitos de C# em pratica.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\obj\Debug\Conceitos de C# em pratica.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\obj\Debug\Conceitos de C# em pratica.exe
+C:\Users\Administrator\source\repos\Conceitos de C# em pratica\Conceitos de C# em pratica\obj\Debug\Conceitos de C# em pratica.pdb
