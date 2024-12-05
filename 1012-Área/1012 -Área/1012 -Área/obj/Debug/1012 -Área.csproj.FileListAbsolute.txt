@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\bin\Debug\1012 -Área.exe.config
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\bin\Debug\1012 -Área.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\bin\Debug\1012 -Área.pdb
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\obj\Debug\1012 -Área.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\obj\Debug\1012 -Área.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\obj\Debug\1012 -Área.exe
+C:\Users\Administrator\Documents\projetosC#\Resolucao de problemas C# na Pratica\1012-Área\1012 -Área\1012 -Área\obj\Debug\1012 -Área.pdb
